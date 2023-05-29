@@ -16,7 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Lxy-eth&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
+    <img src="http://views.whatilearened.today/views/github/Lxy-eth/views.svg"/>
+    <a href="https://github.com/Lxy-eth/"><img src="https://img.shields.io/github/followers/Lxy-eth?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/Lxy-eth?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+   
 
+  </p>
+</p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<a href="https://github.com/Lxy-eth">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxy-eth&theme=radical&hide=glsl,python" />
+</a>
 
-[![wakatime](https://wakatime.com/badge/user/71d3be65-76dd-4761-b0ef-07073364abb9.svg)](https://wakatime.com/@71d3be65-76dd-4761-b0ef-07073364abb9)
+ [![wakatime](https://wakatime.com/badge/user/71d3be65-76dd-4761-b0ef-07073364abb9.svg)](https://wakatime.com/@71d3be65-76dd-4761-b0ef-07073364abb9)
+

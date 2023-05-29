@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
   <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Lxy-eth&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Lxy-eth&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
     <img src="http://views.whatilearened.today/views/github/Lxy-eth/views.svg"/>
     <a href="https://github.com/Lxy-eth/"><img src="https://img.shields.io/github/followers/Lxy-eth?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>

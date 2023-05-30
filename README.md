@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   	<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=Lxy-eth&show_icons=true&hide_border=true" />
 
 </p>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="400">
 
 
 <a href="https://github.com/Lxy-eth">

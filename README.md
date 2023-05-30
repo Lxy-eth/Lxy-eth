@@ -30,11 +30,7 @@ Here are some ideas to get you started:
 </p>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="400">
 
-
 <a href="https://github.com/Lxy-eth">
   <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxy-eth&theme=black&hide=glsl,python" />
 </a>
 </a>
-
-
-

@@ -1,4 +1,7 @@
 # Hello, geeks! 👋
+ 
+ [![wakatime](https://wakatime.com/badge/user/71d3be65-76dd-4761-b0ef-07073364abb9.svg)](https://wakatime.com/@71d3be65-76dd-4761-b0ef-07073364abb9)
+ 
 我是来自于CUIT(BlockChain)的一名大三学生，目前正在学习Web3方面的知识
 <!--
 **Lxy-eth/Lxy-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +27,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/Lxy-eth?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
    
-
   </p>
 </p>
 
@@ -32,6 +34,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Lxy-eth">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxy-eth&theme=radical&hide=glsl,python" />
 </a>
+</a>
 
- [![wakatime](https://wakatime.com/badge/user/71d3be65-76dd-4761-b0ef-07073364abb9.svg)](https://wakatime.com/@71d3be65-76dd-4761-b0ef-07073364abb9)
+
 

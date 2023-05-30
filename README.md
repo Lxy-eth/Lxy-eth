@@ -3,11 +3,6 @@
  [![wakatime](https://wakatime.com/badge/user/71d3be65-76dd-4761-b0ef-07073364abb9.svg)](https://wakatime.com/@71d3be65-76dd-4761-b0ef-07073364abb9)
  
 我是来自于CUIT(BlockChain)的一名大三学生，目前正在学习Web3方面的知识
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
 <!--
 **Lxy-eth/Lxy-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
